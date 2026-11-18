@@ -1,10 +1,10 @@
 // Datos comerciales editables. Reemplazar el número provisional antes de publicar.
 const SITE_CONFIG = {
   whatsappNumber: "56991740923", // Formato internacional, sin + ni espacios.
-  domain: "Tuvitrina.cl",
+  domain: "quickpages.cl",
   prices: {
     setup: 60000,
-    monthly: 9990,
+    monthly: 5000,
   },
 };
 

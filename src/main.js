@@ -1,9 +1,9 @@
 // Datos comerciales editables. Reemplazar el número provisional antes de publicar.
 const SITE_CONFIG = {
-  whatsappNumber: "56912345678", // Formato internacional, sin + ni espacios.
-  domain: "impulsalocal.cl",
+  whatsappNumber: "56991740923", // Formato internacional, sin + ni espacios.
+  domain: "Tuvitrina.cl",
   prices: {
-    setup: 79990,
+    setup: 60000,
     monthly: 9990,
   },
 };

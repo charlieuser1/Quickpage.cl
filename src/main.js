@@ -161,7 +161,7 @@ function validateForm() {
 function buildMessage() {
   const data = new FormData(leadForm);
   const lines = [
-    "Hola, Impulsa Local. Quiero conversar sobre una landing para mi negocio.",
+    "Hola, Quickpage. Quiero conversar sobre una landing para mi negocio.",
     "",
     `Nombre: ${data.get("nombre").trim()}`,
     `Negocio: ${data.get("negocio").trim()}`,

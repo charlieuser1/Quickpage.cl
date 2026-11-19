@@ -3,7 +3,7 @@ const SITE_CONFIG = {
   whatsappNumber: "56991740923", // Formato internacional, sin + ni espacios.
   domain: "quickpages.cl",
   prices: {
-    setup: 60000,
+    setup: 45000,
     monthly: 5000,
   },
 };
